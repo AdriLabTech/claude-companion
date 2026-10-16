@@ -1,0 +1,41 @@
+{
+  "id": "claude-companion",
+  "name": "Claude Companion",
+  "version": "0.1.0",
+  "author": "AdriLabTech \u003clabs.lownoise@gmail.com\u003e",
+  "description": "Claude Companion is a Ryoku shell plugin.",
+  "license": "MIT",
+  "official": false,
+  "hosts": [
+    "desktopWidget"
+  ],
+  "entryPoints": {
+    "main": "service/Main.qml",
+    "content": "content/Widget.qml"
+  },
+  "files": [],
+  "capabilities": {
+    "densities": [
+      "compact",
+      "full"
+    ]
+  },
+  "defaults": {
+    "host": "desktopWidget",
+    "label": "Claude Companion"
+  },
+  "dependencies": {
+    "commands": []
+  },
+  "metadata": {
+    "settings": [
+      {
+        "key": "showCount",
+        "type": "toggle",
+        "label": "Show the tick count",
+        "group": "Claude Companion",
+        "default": true
+      }
+    ]
+  }
+}
