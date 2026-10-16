@@ -24,6 +24,8 @@ by the calendar and stays plain the rest of the year (see [seasons.md](seasons.m
 dates). To change it, **right-click the spark**: the menu lists the widget's settings, and
 **Seasonal outfit** is a row of buttons:
 
+![The right-click menu with the Seasonal outfit buttons](seasonal-outfit.png)
+
 | Button | Result |
 | --- | --- |
 | Off (plain) | never dresses up |
