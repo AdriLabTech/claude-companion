@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/hero.svg" alt="claude-companion" width="100%"></p>
+
 # Claude Companion
 
 A small pixel-art spark that lives on your desktop wallpaper, mirrors what
